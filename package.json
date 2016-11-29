@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Sam Zhao <zhao.shengjun@gmail.com> (https://zhaoshengjun.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^17.0.3",
+    "tslint": "4.0.2",
+    "typescript": "2.0.10"
+  },
+  "scripts": {
+    "lint": "tslint ./src/**/*.ts"
+  }
+}
